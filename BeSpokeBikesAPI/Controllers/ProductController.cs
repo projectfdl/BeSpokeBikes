@@ -7,6 +7,7 @@ namespace BeSpokeBikesAPI.Controllers
     public class ProductController : ControllerBase
     {
         private readonly ILogger<ProductController> _logger;
+        private readonly IProductRepository m_ProductRepository;
 
         public ProductController(ILogger<ProductController> logger, IProductRepository salespersonRepository)
         {
@@ -19,7 +20,5 @@ namespace BeSpokeBikesAPI.Controllers
         {
             return await m_ProductRepository.GetAllAsync();
         }
-
-        private readonly IProductRepository m_ProductRepository;
     }
 }

@@ -7,6 +7,7 @@ namespace BeSpokeBikesAPI.Controllers
     public class SaleController : ControllerBase
     {
         private readonly ILogger<SaleController> _logger;
+        private readonly ISaleRepository m_SaleRepository;
 
         public SaleController(ILogger<SaleController> logger, ISaleRepository salespersonRepository)
         {
@@ -19,7 +20,5 @@ namespace BeSpokeBikesAPI.Controllers
         {
             return await m_SaleRepository.GetAllAsync();
         }
-
-        private readonly ISaleRepository m_SaleRepository;
     }
 }

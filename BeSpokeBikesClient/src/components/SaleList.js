@@ -13,8 +13,6 @@ export class SaleList extends Component {
     openModal = () => this.setState({ isOpen: true });
     closeModal = () => this.setState({ isOpen: false });
 
-  
-
     componentDidMount() {
         this.populateData();
     }
@@ -91,10 +89,6 @@ export class SaleList extends Component {
         const data = await response.json();
 
         this.setState({ data: data, loading: false });
-    }
-
-    async loadProducts() {
-
     }
 
     submit = () => {

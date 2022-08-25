@@ -3,7 +3,6 @@ using BeSpokeBikesAPI;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>();
 builder.Services.AddSingleton<IDiscountRepository, DiscountRepository>();
@@ -25,7 +24,6 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
 app.UseAuthorization();
 
 app.MapControllers();

@@ -3,7 +3,6 @@ import { SalespersonList } from "./components/SalespersonList";
 import { DiscountList } from "./components/DiscountList";
 import { ProductList } from "./components/ProductList";
 import { SaleList } from "./components/SaleList";
-import { Home } from "./components/Home";
 
 const AppRoutes = [
     {

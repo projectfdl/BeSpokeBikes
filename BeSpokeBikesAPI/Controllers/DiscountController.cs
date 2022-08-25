@@ -7,6 +7,7 @@ namespace BeSpokeBikesAPI.Controllers
     public class DiscountController : ControllerBase
     {
         private readonly ILogger<DiscountController> _logger;
+        private readonly IDiscountRepository m_DiscountRepository;
 
         public DiscountController(ILogger<DiscountController> logger, IDiscountRepository salespersonRepository)
         {
@@ -19,7 +20,5 @@ namespace BeSpokeBikesAPI.Controllers
         {
             return await m_DiscountRepository.GetAllAsync();
         }
-
-        private readonly IDiscountRepository m_DiscountRepository;
     }
 }
