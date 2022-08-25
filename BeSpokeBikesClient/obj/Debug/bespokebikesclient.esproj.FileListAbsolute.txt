@@ -1,2 +1,4 @@
 C:\Users\Jesse\source\repos\BeSpokeBikes\BeSpokeBikesClient\obj\Debug\bespokebikesclient.esproj.SuggestedBindingRedirects.cache
 C:\Users\Jesse\source\repos\BeSpokeBikes\BeSpokeBikesClient\obj\Debug\bespokebikesclient.esproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\Github\BeSpokeBikes\BeSpokeBikesClient\obj\Debug\bespokebikesclient.esproj.SuggestedBindingRedirects.cache
+C:\Users\Jesse\source\repos\Github\BeSpokeBikes\BeSpokeBikesClient\obj\Debug\bespokebikesclient.esproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0vXeAq2VVWA6zS5dWMLzd4Di05vudgkfw0cxG6NiFE2i3Wo+iiQB0JBjrPWeCdZdLdiBGkLk212mQAc8CSufA==",
+  "dgSpecHash": "v+tgHQlRH8u3uP1ycoUWOGbg2I/pe7FlyXCxK7KCsafGJHa+TgGz9Yvr73ObjfsaXx8n6K20hz7jdBGd/UOH/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
+  "projectFilePath": "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesse\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jesse\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj": {}
+    "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj": {
+    "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
         "projectName": "BeSpokeBikesAPI",
-        "projectPath": "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
+        "projectPath": "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\BeSpokeBikesAPI.csproj",
         "packagesPath": "C:\\Users\\Jesse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesse\\source\\repos\\BeSpokeBikes\\BeSpokeBikesAPI\\obj\\",
+        "outputPath": "C:\\Users\\Jesse\\source\\repos\\Github\\BeSpokeBikes\\BeSpokeBikesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jesse\\AppData\\Roaming\\NuGet\\NuGet.Config",
