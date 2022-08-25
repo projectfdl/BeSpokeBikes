@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bespokebikesclient", "BeSpokeBikesClient\bespokebikesclient.esproj", "{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeSpokeBikesAPI", "BeSpokeBikesAPI\BeSpokeBikesAPI.csproj", "{BDBEFF5D-BFF0-40C5-BA8A-D911DF9BC5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAD2D0C-BE2F-4A19-9D97-CD0D4E5D4A88}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BDBEFF5D-BFF0-40C5-BA8A-D911DF9BC5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBEFF5D-BFF0-40C5-BA8A-D911DF9BC5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBEFF5D-BFF0-40C5-BA8A-D911DF9BC5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBEFF5D-BFF0-40C5-BA8A-D911DF9BC5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {536C0661-407B-406F-A60A-CB5590F1DC00}
+	EndGlobalSection
+EndGlobal
